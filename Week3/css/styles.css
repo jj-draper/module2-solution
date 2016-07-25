@@ -1,0 +1,40 @@
+/**HEADER **/
+#header-nav {
+  background-color: #999999;
+  border-radius: 0;
+  border: 0;
+  padding-left: 0px;
+}
+.navbar-brand h1{
+	font-size: 1.5em;
+	color:black;
+	margin-top: -5px;
+}
+/*.navbar-header button.navbar-toggle {
+  clear: both;
+  background-color: green;
+  margin-top: -40px;
+}
+*/
+
+#collapsable-nav{
+	clear: both;
+	background-color: #FFFFDF;
+	/*border: 1px solid red;*/
+}
+
+#nav-list li{
+	font-size: 1.5em;
+}
+
+#nav-list hr{
+	display: block;
+	margin: 0 0 0;
+	border-top: 1px solid red;
+	width: 100%
+}
+#main-text{
+	background-color: #555555;
+	color:white;
+	margin: 10px 50px 10px;
+}
